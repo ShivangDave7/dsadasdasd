@@ -1,0 +1,10 @@
+
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/RobotoRomanBold.ttf"); font-family : "Roboto"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/MadaBold.ttf"); font-family : "Mada"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/MadaRegular.ttf"); font-family : "Mada"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/PoppinsRegular.ttf"); font-family : "Poppins"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/PoppinsBold.ttf"); font-family : "Poppins"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/SignikaBold.ttf"); font-family : "Signika"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/SignikaRegular.ttf"); font-family : "Signika"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/PoppinsExtraBold.ttf"); font-family : "Poppins"; font-weight : 800;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/PoorStoryRegular.ttf"); font-family : "Poor Story"; font-weight : 400;  }
